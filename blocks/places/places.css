@@ -1,0 +1,26 @@
+.places {
+  list-style-type: none;
+  margin: 0 auto;
+  padding-left: 0;
+  box-sizing: border-box;
+  min-width: 320px;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .places {
+    padding: 0 24px 0;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places {
+    padding: 0 48px 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .places {
+    padding: 0 148px 0;
+  }
+}
