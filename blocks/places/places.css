@@ -1,7 +1,5 @@
 .places {
-  list-style-type: none;
   margin: 0 auto;
-  padding-left: 0;
   box-sizing: border-box;
   min-width: 320px;
 }
